@@ -1,0 +1,27 @@
+name: translation_app_flutter
+description: "A new Flutter module project."
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+
+  # local packages
+  ios_translation:
+    path: ./local_packages/ios_translation
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  module:
+    androidX: true
+    androidPackage: com.example.translation_app_flutter
+    iosBundleIdentifier: com.example.translationAppFlutter

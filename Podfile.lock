@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - FlutterPluginRegistrant (0.0.1):
+    - Flutter
+    - ios_translation
+  - ios_translation (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `translation_app_flutter/.ios/Flutter`)
+  - FlutterPluginRegistrant (from `translation_app_flutter/.ios/Flutter/FlutterPluginRegistrant`)
+  - ios_translation (from `translation_app_flutter/.ios/.symlinks/plugins/ios_translation/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: translation_app_flutter/.ios/Flutter
+  FlutterPluginRegistrant:
+    :path: translation_app_flutter/.ios/Flutter/FlutterPluginRegistrant
+  ios_translation:
+    :path: translation_app_flutter/.ios/.symlinks/plugins/ios_translation/ios
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  FlutterPluginRegistrant: d630f9273d484859edab18ff10c65ddfe3368916
+  ios_translation: 5d5fc6d87f1d6d501981a72d5fb9cc66ce11e0b0
+
+PODFILE CHECKSUM: 31f41f90115a8d75f34652700dd3333e42dac877
+
+COCOAPODS: 1.15.2
