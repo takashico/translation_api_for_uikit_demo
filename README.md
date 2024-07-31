@@ -11,5 +11,4 @@ SwiftUIで提供されている　Translation API を UIKit, Flutter (Add to App
 
 ## Flutter
 
-
-<img width="1079" alt="スクリーンショット 2024-07-31 19 26 28" src="https://github.com/user-attachments/assets/a9401b49-1de8-465d-907e-beb1ae56e0c8">
+<img width="1082" alt="スクリーンショット 2024-07-31 19 27 22" src="https://github.com/user-attachments/assets/9d15b75c-b6a4-406b-b4bd-ed3af04e1e14">
